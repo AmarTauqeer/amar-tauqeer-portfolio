@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/amar-tauqeer-portfolio/static/css/main.7878d909.css",
+    "main.js": "/amar-tauqeer-portfolio/static/js/main.a0bd8b2d.js",
+    "static/media/mobiledesktop.jpg": "/amar-tauqeer-portfolio/static/media/mobiledesktop.6d648ea28d787e671038.jpg",
+    "static/media/publication-icon.png": "/amar-tauqeer-portfolio/static/media/publication-icon.55a4ffc00181b333b50c.png",
+    "static/media/amar.jpg": "/amar-tauqeer-portfolio/static/media/amar.ecd7e05a4734d19c5f6b.jpg",
+    "index.html": "/amar-tauqeer-portfolio/index.html",
+    "main.7878d909.css.map": "/amar-tauqeer-portfolio/static/css/main.7878d909.css.map",
+    "main.a0bd8b2d.js.map": "/amar-tauqeer-portfolio/static/js/main.a0bd8b2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7878d909.css",
+    "static/js/main.a0bd8b2d.js"
+  ]
+}
